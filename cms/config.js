@@ -9,8 +9,8 @@ export default {
   publish_mode: 'editorial_workflow',
   media_folder: 'public/img',
   public_folder: 'img',
-  // site_url: 'blog.incode.com',
-  // display_url: 'https://blog.incode.com/',
+  site_url: 'https://next-netlify-cms.vercel.app/',
+  display_url: 'https://next-netlify-cms.vercel.app/',
   slug: {
     encoding: 'ascii',
     clean_accents: true,

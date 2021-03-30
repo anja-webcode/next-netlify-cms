@@ -1,9 +1,9 @@
 export default {
   cms_manual_init: true,
   backend: {
-    // name: 'github',
-    // repo: 'username / name of the repo',
-    name: 'test-repo',
+    name: 'github',
+    // name: 'test-repo',
+    repo: 'anja-webcode/next-netlify-cms',
     branch: 'main',
   },
   publish_mode: 'editorial_workflow',
